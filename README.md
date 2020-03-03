@@ -1,2 +1,2 @@
 # CLRS-Python
-CLRS algorithms with python implement
+Introduction to algorithms (third edition) with python
