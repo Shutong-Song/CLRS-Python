@@ -1,2 +1,2 @@
 # CLRS-Python
-Introduction to algorithms (third edition) with python
+Introduction to algorithms (3rd edition) with Python implementation on concepts and exercises!
